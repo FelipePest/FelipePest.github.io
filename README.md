@@ -37,7 +37,7 @@
                     />
                 </a>
 
-                <p style="width: 400px; text-align: justify";>
+                <p style="width: 400px; text-align: justify">
                     Elden Ring is an action role-playing game developed by 
 					FromSoftware and published by Bandai Namco Entertainment. 
 					The game was directed by Hidetaka Miyazaki and made in collaboration 
