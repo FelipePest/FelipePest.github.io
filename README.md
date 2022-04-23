@@ -7,7 +7,7 @@
         <title>Elden Ring</title>
     </head>
 
-    <body style="background-image: 'Background.jpg'; color: white">
+    <body style="background-image: url('Background.jpg'); color: white">
         <article>
             <h1 style="text-align: center; font-size: 300%">Elden Ring</h1>
 
@@ -31,14 +31,14 @@
                     href="https://pt.wikipedia.org/wiki/Elden_Ring#/media/Ficheiro:Elden_Ring_capa.jpg"
                 >
                     <img
-                        src="Elden_Ring_capaa.jpg"
+                        src="Elden_Ring_capa.jpg"
                         alt="Elden Ring Capa"
                         title="Elden Ring"
                         width="400"
                     />
                 </a>
 
-                <p style="width: 400px; text-align: justify";>
+                <p style="width: 400px; text-align: justify" ;>
                     Elden Ring is an action role-playing game developed by 
 					FromSoftware and published by Bandai Namco Entertainment. 
 					The game was directed by Hidetaka Miyazaki and made in collaboration 
