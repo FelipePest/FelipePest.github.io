@@ -7,7 +7,7 @@
         <title>Elden Ring</title>
     </head>
 
-    <body style="background-image: url('Background.jpg'); color: white">
+    <body style="background-image: "Background.jpg"; color: white">
         <article>
             <h1 style="text-align: center; font-size: 300%">Elden Ring</h1>
 
