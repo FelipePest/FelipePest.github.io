@@ -7,7 +7,7 @@
         <title>Elden Ring</title>
     </head>
 
-    <body style="background-image: url('Background.jpg'); color: white">
+    <body style="background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F180495897552893761%2F&psig=AOvVaw0td1-ld6zzLjazI96m1Ma7&ust=1650838516291000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjrr-2aq_cCFQAAAAAdAAAAABAD'); color: white">
         <article>
             <h1 style="text-align: center; font-size: 300%">Elden Ring</h1>
 
