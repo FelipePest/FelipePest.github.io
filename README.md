@@ -7,7 +7,7 @@
         <title>Elden Ring</title>
     </head>
 
-    <body style="background-image: url('Background.jpg'); color: white">
+    <body style="background-image: 'Background.jpg'; color: white">
         <article>
             <h1 style="text-align: center; font-size: 300%">Elden Ring</h1>
 
@@ -31,7 +31,7 @@
                     href="https://pt.wikipedia.org/wiki/Elden_Ring#/media/Ficheiro:Elden_Ring_capa.jpg"
                 >
                     <img
-                        src="Elden_Ring_capa.jpg"
+                        src="Elden_Ring_capaa.jpg"
                         alt="Elden Ring Capa"
                         title="Elden Ring"
                         width="400"
