@@ -18,6 +18,19 @@ window.onload = function(){
     b.appendChild(text);
     div1.appendChild(b);
 
+    var b2 = document.createElement("button");
+    b2.style.marginLeft = "20px";
+    b2.onclick = () => {
+        var child = div2.lastElementChild;
+        while (child) {
+            div2.removeChild(child);
+            child = div2.lastElementChild;       
+        }
+    }
+    var text2 = document.createTextNode("Deletar todos os Circulos");
+    b2.appendChild(text2);
+    div1.appendChild(b2)
+
     function createCircle(i){
     var circle = document.createElement("div")
     circle.style.width = "130px";
